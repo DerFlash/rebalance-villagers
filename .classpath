@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Private/Jens/Programing/Java/Eclipse/Resources/craftbukkit-1.5.2-R0.1-20130502.232958-6.jar"/>
+	<classpathentry kind="lib" path="C:/Private/Jens/Programing/Java/Eclipse/Resources/Server/plugins/Shopkeepers.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
